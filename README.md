@@ -66,5 +66,4 @@ A modelagem seguiu os seguintes princípios:
 
 O DER resultante representa de forma estruturada o fluxo de atendimento jurídico, a gestão de agenda dos advogados, o acompanhamento processual e o suporte operacional realizado por estagiários.
 
-Se quiser, posso agora deixar ainda mais formal (nível documentação técnica de projeto) ou adaptar para ficar mais estratégico para portfólio de Analista de Dados.
 
