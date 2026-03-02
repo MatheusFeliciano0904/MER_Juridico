@@ -19,8 +19,6 @@ Foram definidas como entidades principais do sistema:
 
 Cada entidade foi estruturada com identificador único (chave primária), garantindo unicidade e integridade no modelo.
 
----
-
 ### 2. Entidades Dependentes
 
 A entidade **Pessoa** foi modelada como núcleo do sistema, possuindo relacionamentos do tipo 1:N com as seguintes entidades:
@@ -34,8 +32,6 @@ A entidade **Pessoa** foi modelada como núcleo do sistema, possuindo relacionam
 * Telefones
 
 Essas entidades armazenam informações complementares e possuem chave estrangeira referenciando Pessoa, assegurando integridade referencial.
-
----
 
 ### 3. Modelagem dos Relacionamentos
 
@@ -57,8 +53,6 @@ Os relacionamentos muitos-para-muitos foram resolvidos por meio de entidades ass
 
 Essas entidades foram modeladas com chaves primárias compostas, garantindo a correta implementação do relacionamento no modelo lógico.
 
----
-
 ### 4. Critérios Técnicos Aplicados
 
 A modelagem seguiu os seguintes princípios:
@@ -71,8 +65,6 @@ A modelagem seguiu os seguintes princípios:
 * Garantia de integridade referencial
 
 O DER resultante representa de forma estruturada o fluxo de atendimento jurídico, a gestão de agenda dos advogados, o acompanhamento processual e o suporte operacional realizado por estagiários.
-
----
 
 Se quiser, posso agora deixar ainda mais formal (nível documentação técnica de projeto) ou adaptar para ficar mais estratégico para portfólio de Analista de Dados.
 
